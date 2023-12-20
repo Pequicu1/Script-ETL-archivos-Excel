@@ -6,4 +6,5 @@ El proyecto surge como respuesta a una solicitud para automatizar la extracción
 El código recorre un directorio que contiene diversas carpetas, cada una con archivos Excel. Para cada archivo, se extraen los datos necesarios de las distintas hojas del libro y se almacenan en un archivo auxiliar. Al finalizar, se obtiene un nuevo archivo por cada directorio.
 
 - **GetData.py:** Archivo principal del script ETL.
-- **Codi Dades Marc.docx:** Explicación que tuve que proporcionar del codigo para su entendimiento.
+- **Codi Dades Marc.docx:** Explicación que tuve que proporcionar del código para su entendimiento.
+- **Dades Països.rar:** Resultado obtenido tras la ejecucion del código.
